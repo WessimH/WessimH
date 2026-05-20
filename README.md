@@ -41,9 +41,9 @@
 
 ### 🤖 AI / Data
 
-- 🧠 **YOLO (Object Detection)** – Ball tracking & sports analysis
-- 📊 **Pandas / OpenCV** – Data processing & computer vision
-- 📈 **Sports Analytics** – Performance insights & visualization
+- **YOLO (Object Detection)** – Ball tracking & sports analysis
+- **Pandas / OpenCV** – Data processing & computer vision
+- **Sports Analytics** – Performance insights & visualization
 
 ---
 
